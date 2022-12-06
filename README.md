@@ -15,13 +15,13 @@
 <p align="center">
 <img src="./images/html5.png" width='100' height="100">
 
-<img src="./images/css3.png">
-<img src="./images/javascript.png">
-<img src="./images/react.png">
-<img src="./images/node.png">
-<img src="./images/express.png">
-<img src="./images/mongo.jfif">
-<img src="./images/python.jfif">
+<img src="./images/css3.png" width='100' height="100">
+<img src="./images/javascript.png" width='100' height="100">
+<img src="./images/react.png" width='100' height="100">
+<img src="./images/node.png" width='100' height="100">
+<img src="./images/express.png" width='100' height="100">
+<img src="./images/mongo.jfif" width='100' height="100">
+<img src="./images/python.jfif" width='100' height="100">
 
 </p><br/>
 
