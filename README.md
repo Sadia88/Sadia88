@@ -12,7 +12,7 @@
 
 ## :computer: Skills
 <br>
-<p align="center" background-color='gray'>
+<p align="center"  background-color='lightblue'>
 <img src="./images/html5.png" width='100' height="100">
 
 <img src="./images/css3.png" width='100' height="100">
