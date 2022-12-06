@@ -1,5 +1,6 @@
-<img src="./images/I.jpg"  align-items='center' text='center'>
-
+<p align="center">
+<img src="./images/I.jpg"  >
+</p>
 ## 📱  Contact me 
 
 <br />
