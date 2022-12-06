@@ -1,4 +1,4 @@
-![I am a Web developer. ] <img src="./images/I.jpg">
+<img src="./images/I.jpg">
 
 ## 📱  Contact me 
 
@@ -13,7 +13,7 @@
 ## :computer: Skills
 <br>
 <p align="center">
-<img src="./images/html5.png" width='40px' hight='40px>
+<img src="./images/html5.png" width='100' height="100">
 
 <img src="./images/css3.png">
 <img src="./images/javascript.png">
