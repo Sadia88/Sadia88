@@ -1,4 +1,4 @@
-<img src="./images/I.jpg"  align-items='center' >
+<img src="./images/I.jpg"  align-items='center' text='center'>
 
 ## 📱  Contact me 
 
