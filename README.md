@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/I.jpg"  >
+<img src="./images/I.jpg" width='100%' >
 </p>
 ## 📱  Contact me 
 
