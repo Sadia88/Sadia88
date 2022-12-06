@@ -1,4 +1,4 @@
-<img src="./images/I.jpg"   width='600' >
+<img src="./images/I.jpg"  align-items='center' >
 
 ## 📱  Contact me 
 
