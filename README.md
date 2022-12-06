@@ -1,4 +1,4 @@
-[<img src="./images/I.jpg"  align="center" >]
+<img src="./images/I.jpg"   width='600' >
 
 ## 📱  Contact me 
 
