@@ -1,6 +1,6 @@
 ![I am a Web developer. ]('./images/I.jpg')
 
-## :mailbox: Contact me 
+## 📱  Contact me 
 
 <br />
 
@@ -10,10 +10,10 @@
 
 
 
-## :computer: Technologies that I know
+## :computer: Skills
 <br>
 <p align="center">
-<img src="./images/html5.png">
+<img src="./images/html5.png" width='40px' hight='40px>
 
 <img src="./images/css3.png">
 <img src="./images/javascript.png">
