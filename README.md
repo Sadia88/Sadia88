@@ -1,4 +1,4 @@
-![I am a Web developer. ]('./images/I.jpg')
+![I am a Web developer. ] <img src="./images/I.jpg">
 
 ## 📱  Contact me 
 
